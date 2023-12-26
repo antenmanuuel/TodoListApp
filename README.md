@@ -8,7 +8,7 @@ This To-Do List application, built using Python and Tkinter, provides a user-fri
 ### Prerequisites
 - Python 3.x installed on your system. If you don't have Python, download and install it from [python.org](https://www.python.org/downloads/).
 
-### Depedencies
+### Dependencies
 - This application requires the `tkcalendar` package. To install it, run the following command:
 ```bash
 pip install tkcalendar
