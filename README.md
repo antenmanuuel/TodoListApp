@@ -14,17 +14,13 @@ This application requires the `tkcalendar` package. To install it, run the follo
 pip install tkcalendar
 ###
 
+### Getting Started
 
+To get the To-Do List application up and running on your local machine, follow these steps:
 
-### Running the application
-1. first clone the repo
-```bash
-git clone https://github.com/antenmanuuel/TodoListApp.git
-
-2. cd to the cloned folder
-```bash
-cd TodoListApp
-
-3. run the application
-```bash
-python main.py
+1. **Clone the Repository**
+   Begin by cloning the repository to your local machine. Open a terminal and run the following command:
+   ```bash
+   git clone https://github.com/antenmanuuel/TodoListApp.git
+2. cd TodoListApp
+3. python main.py
