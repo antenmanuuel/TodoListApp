@@ -12,14 +12,17 @@ This To-Do List application, built using Python and Tkinter, provides a user-fri
 - This application requires the `tkcalendar` package. To install it, run the following command:
 ```bash
 pip install tkcalendar
-
+```
 ### Running the project
 - Clone the repo
 ``` bash
    git clone https://github.com/antenmanuuel/TodoListApp.git
+```
 - move to that cloned directory
 ```bash
    cd TodoListApp
+```
 - run the application
 ```bash
    python main.py
+```
